@@ -1,1 +1,2 @@
-# Numbers-recogniton-with-ML
+# Numbers-recogniton
+Numbers-recogniton-with-ML
